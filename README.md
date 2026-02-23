@@ -1,0 +1,3 @@
+# 🪽 Morpheus
+
+Morpheus is a decentralized AI protocol that rewards users for supplying capital by staking yield-bearing assets. Stakers earn MOR tokens in proportion to the USD value of the yield their deposits generate. The protocol runs on Ethereum mainnet with a cross-chain layer on Arbitrum. Each supported asset has its own staking pool, while a central orchestrator collects yield (e.g. via Aave V3), pulls prices from oracles, and allocates MOR rewards. MOR is minted on L2 via cross-chain messages, and part of the yield is bridged to Arbitrum for liquidity and DeFi use. The design ties rewards directly to the economic yield produced by staked capital, creating a capital-efficient incentive layer for the Morpheus ecosystem.
